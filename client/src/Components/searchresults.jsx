@@ -5,7 +5,7 @@ import Container from "react-bootstrap/Container";
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
 import "../App.css";
-import "bootstrap/dist/css/bootstrap.min.css";
+
 
 // React Function uses hooks to display the results of the search function
 function SearchResults({ results, addFavourite }) {

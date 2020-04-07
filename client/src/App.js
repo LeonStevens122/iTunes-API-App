@@ -7,6 +7,10 @@ import SearchResults from "./Components/searchresults";
 import "./App.css";
 import FavouriteList from "./Components/favourites";
 import Axios from "axios";
+import 'bootstrap/dist/css/bootstrap.css';
+import 'bootstrap/dist/css/bootstrap-theme.css';
+
+
 // set initial value of favourites array
 let arrFavourites = [];
 // contstruct react app using hooks to handle state
